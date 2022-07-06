@@ -1,0 +1,47 @@
+body{
+    background-image: url('../image/bg-pokemon.jpg');
+    background-size: cover;
+}
+.arti{
+    position: absolute;
+    left: 300px;
+    top: 180px;
+}
+.draco{
+    position: absolute;
+    right: 300px;
+}
+.pro1{
+    position: absolute;
+    background-color: red;
+    border: solid 1px black;
+    right: 350px;
+    bottom: 180px;
+    border-radius: 20px;
+    padding: 30px;
+    padding-top: 10px;
+}
+.pro2{
+    position: absolute;
+    background-color: blue;
+    border: solid 1px black;
+    left: 320px;
+    top: 50px;
+    padding: 30px;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+progress{
+    width: 250px;
+}
+.but{
+    position: absolute;
+    bottom: 20px;
+    left: 610px;
+}
+button{
+    background-color: grey;
+    border: none;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
